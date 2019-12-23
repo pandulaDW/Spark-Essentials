@@ -1,0 +1,2 @@
+Worker ID, File, Total Time (ms), lateFile?, totalSpans, parser nodes, typer nodes, LoC, LoC/s
+0, src\main\scala\playground\Playground.scala, 691, false, 42, 214, 569, 37, 54
